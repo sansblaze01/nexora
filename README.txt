@@ -5,7 +5,7 @@
 - `communaute.html` : présentation du serveur et de ses activités
 - `partenariats.html` : conditions et avantages des partenariats
 - `style.css` : styles communs et responsive
-- `assets/nexora-logo.png` : logo Nexora
+- `nexora-logo.png` : logo Nexora
 
 ## Publication sur GitHub Pages
 1. Crée un dépôt GitHub public.
